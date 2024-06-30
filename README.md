@@ -13,5 +13,5 @@ opsional kalian bisa nyalakan fps indikator:
 <img src="https://github.com/cilegordev/Wonder-Zoo-Mod/blob/9e402785a5df4cb82e6a2045a270e7c444e81b94/image/setting2.png" width="480"/> 
 
 # Test Drive
-Xiaomi Redmi 8A Pro ✔️ OK!
-vivo Y20 ✔️ OK!
+Xiaomi Redmi 8A Pro ✔️ OK! <br/>
+vivo Y20 ✔️ OK! <br/>
