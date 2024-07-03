@@ -15,3 +15,4 @@ opsional kalian bisa nyalakan fps indikator:
 # Test Drive
 Xiaomi Redmi 8A Pro ✔️ OK! <br/>
 vivo Y20 ✔️ OK! <br/>
+Samsung Galaxy J2 Prime ✔️ OK! <br/>
